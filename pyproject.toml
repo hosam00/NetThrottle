@@ -1,0 +1,9 @@
+[project]
+name = "netthrottle"
+version = "1.0.0"
+description = "A modern, cross-platform GUI application for network speed monitoring and bandwidth control"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "psutil>=5.9.0",
+]

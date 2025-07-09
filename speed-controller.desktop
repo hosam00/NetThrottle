@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=NetThrottle
+Comment=Cross-platform network speed monitoring and bandwidth control
+Exec=/media/hossam/New Volume/speed_limiter/run.sh
+Icon=network-wired
+Terminal=true
+Categories=Network;System;
+StartupNotify=true

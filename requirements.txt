@@ -1,0 +1,3 @@
+psutil>=5.9.0
+# For modern GUI enhancements (optional)
+pillow>=9.0.0
